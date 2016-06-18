@@ -1,0 +1,5 @@
+====== $Diretorio$ ======
+
+===== StartEvents =====
+$startEvents$
+  * [[<idStartEvent>|<nameStartEvent>]]

@@ -1,0 +1,1 @@
+====== $NomeDaPagina$ ======$performer$$tipo$$descricao$===== Origens =====$origens$  * [[<idPagina>|<NomePagina>]]===== Destinos =====$destinos$  * [[<idPagina>|<NomePagina>]]===== Eventos =====$eventos$
